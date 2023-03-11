@@ -1,0 +1,174 @@
+item {
+    id: 1
+    name: 'Low Energy Pendant Light'
+}
+
+item {
+    id: 2
+    name: 'Low Energy Downlighter'
+}
+
+item {
+    id: 3
+    name: 'Internal Wall Light'
+}
+
+item {
+    id: 4
+    name: 'External Wall Light'
+}
+
+item {
+    id: 5
+    name: 'Twin LED Strip Light'
+}
+
+item {
+    id: 6
+    name: 'Track Light'
+}
+
+item {
+    id: 7
+    name: 'Light Switch'
+}
+
+item {
+    id: 8
+    name: 'Single Socket'
+}
+
+item {
+    id: 9
+    name: 'Fused spur'
+}
+
+item {
+    id: 10
+    name: 'Double Socket'
+}
+
+item {
+    id: 11
+    name: 'USB Double Socket'
+}
+
+item {
+    id: 12
+    name: 'Outside Socket'
+}
+
+item {
+    id: 13
+    name: 'Oven Switch'
+}
+
+item {
+    id: 14
+    name: 'Hob Switch'
+}
+
+item {
+    id: 15
+    name: 'Grid Switch'
+}
+
+item {
+    id: 16
+    name: 'Shaver Socket'
+}
+
+item {
+    id: 17
+    name: 'Telephone Socket'
+}
+
+item {
+    id: 18
+    name: 'Co-Ax TV Socket'
+}
+
+item {
+    id: 19
+    name: 'TV & Satellite Multisocket'
+}
+
+item {
+    id: 20
+    name: 'Cat 6 Data Socket'
+}
+
+item {
+    id: 21
+    name: 'Programmable Room Thermostat'
+}
+
+item {
+    id: 22
+    name: 'Mains Wired Smoke Detector'
+}
+
+item {
+    id: 23
+    name: 'Ceiling Mounted Continuous Extract FanWith Boost Mode Activated By Light Switch'
+}
+
+item {
+    id: 24
+    name: 'Ceiling Mounted Continuous Extract FanWith Local Boost Switch'
+}
+
+item {
+    id: 25
+    name: 'Recirculating Extractor Fan'
+}
+
+item {
+    id: 26
+    name: 'Radiator'
+}
+
+item {
+    id: 27
+    name: 'Outside Tap'
+}
+
+item {
+    id: 28
+    name: 'Half Height Tiling'
+}
+
+item {
+    id: 29
+    name: 'Full Height Tiling'
+}
+
+item {
+    id: 30
+    name: 'Water Entry Position'
+}
+
+item {
+    id: 31
+    name: 'Gas Meter Box'
+}
+
+item {
+    id: 32
+    name: 'Electric Meter Box'
+}
+
+item {
+    id: 33
+    name: 'Consumer Unit'
+}
+
+item {
+    id: 34
+    name: 'Underfloor Heating Manifold'
+}
+
+item {
+    id: 35
+    name: 'BT Entry Point'
+}
